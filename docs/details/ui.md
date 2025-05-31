@@ -14,6 +14,8 @@
 
 ### ログイン画面
 
+[Figma デザイン](https://www.figma.com/design/wSQF2lWB6SjMdxuS819cUS/%E5%8A%A0%E8%97%A4%E6%99%BA%E4%B9%9F-s-team-library?node-id=2315-27&t=s1PXxvH7CWY6Glyt-4)
+
 - 概要: ユーザーがメールアドレスとパスワードでログインする画面
 - UI 要素:
   - メールアドレス入力欄（バリデーション: Email 形式）
@@ -27,6 +29,8 @@
   - ラベル付与、キーボード操作対応
 
 ### ホーム画面
+
+[Figma デザイン](https://www.figma.com/design/wSQF2lWB6SjMdxuS819cUS/%E5%8A%A0%E8%97%A4%E6%99%BA%E4%B9%9F-s-team-library?node-id=2315-182&t=AgGHSJPiDifrHdNV-4)
 
 - 概要: ムカつき入力とスタイル選択を行うメイン画面
 - UI 要素:
@@ -42,6 +46,8 @@
   - 空欄での送信は禁止
 
 ### 変換結果画面
+
+[Figma デザイン](https://www.figma.com/design/wSQF2lWB6SjMdxuS819cUS/%E5%8A%A0%E8%97%A4%E6%99%BA%E4%B9%9F-s-team-library?node-id=2315-265&t=AgGHSJPiDifrHdNV-4)
 
 - 概要: AI 変換結果の表示とリアクション入力画面
 - UI 要素:
@@ -59,6 +65,8 @@
 
 ### 履歴一覧画面
 
+[Figma デザイン](https://www.figma.com/design/wSQF2lWB6SjMdxuS819cUS/%E5%8A%A0%E8%97%A4%E6%99%BA%E4%B9%9F-s-team-library?node-id=2315-389&t=AgGHSJPiDifrHdNV-4)
+
 - 概要: 過去の投稿履歴をリスト表示
 - UI 要素:
   - ヘッダー（タイトル「履歴」、戻るボタン）
@@ -73,6 +81,8 @@
   - 各投稿カードをタップで詳細表示
 
 ### 新規登録画面
+
+[Figma デザイン](https://www.figma.com/design/wSQF2lWB6SjMdxuS819cUS/%E5%8A%A0%E8%97%A4%E6%99%BA%E4%B9%9F-s-team-library?node-id=2327-64&t=AgGHSJPiDifrHdNV-4)
 
 - 概要: 新規ユーザー登録画面
 - UI 要素:
